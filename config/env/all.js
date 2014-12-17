@@ -2,9 +2,9 @@
 
 module.exports = {
 	app: {
-		title: '搞笑猩猩',
-		description: '專注搞笑一百年',
-		keywords: '搞笑'
+		title: 'o嘴',
+		description: '香港第一大政治漫畫資料庫',
+		keywords: '政治漫畫'
 	},
 	db: 'mongodb://localhost/mean',
         port: 80,
